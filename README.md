@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JyriKoskela
+- 👀 Mostly tinkering here with my home automation
